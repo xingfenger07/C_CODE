@@ -1,0 +1,5 @@
+﻿  test.c
+E:\C\test.1\test.1\test.c(10,5): error C2084: 函数“int main()”已有主体
+      E:\C\test.1\test.1\test.c(5,5):
+      参见“main”的前一个定义
+  

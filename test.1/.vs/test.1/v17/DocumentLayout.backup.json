@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\test.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{288DEA07-1711-4A21-8E2F-029175169E1D}|test.1\\test.1.vcxproj|E:\\C\\test.1\\test.1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{288DEA07-1711-4A21-8E2F-029175169E1D}|test.1\\test.1.vcxproj|solutionrelative:test.1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288DEA07-1711-4A21-8E2F-029175169E1D}|test.1\\test.1.vcxproj|E:\\C\\test.1\\test.1\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{288DEA07-1711-4A21-8E2F-029175169E1D}|test.1\\test.1.vcxproj|solutionrelative:test.1\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add.c",
+              "DocumentMoniker": "E:\\C\\test.1\\test.1\\add.c",
+              "RelativeDocumentMoniker": "test.1\\add.c",
+              "ToolTip": "E:\\C\\test.1\\test.1\\add.c",
+              "RelativeToolTip": "test.1\\add.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-13T14:12:46.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\C\\test.1\\test.1\\test.c",
+              "RelativeDocumentMoniker": "test.1\\test.c",
+              "ToolTip": "E:\\C\\test.1\\test.1\\test.c",
+              "RelativeToolTip": "test.1\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-13T13:53:11.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
