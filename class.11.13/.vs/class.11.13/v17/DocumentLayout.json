@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\class\\class.11.13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43C18070-CFDC-48FC-8A51-34258A9D6538}|class.11.13\\class.11.13.vcxproj|E:\\C\\class\\class.11.13\\class.11.13\\digui.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43C18070-CFDC-48FC-8A51-34258A9D6538}|class.11.13\\class.11.13.vcxproj|solutionrelative:class.11.13\\digui.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "digui.c",
+              "DocumentMoniker": "E:\\C\\class\\class.11.13\\class.11.13\\digui.c",
+              "RelativeDocumentMoniker": "class.11.13\\digui.c",
+              "ToolTip": "E:\\C\\class\\class.11.13\\class.11.13\\digui.c",
+              "RelativeToolTip": "class.11.13\\digui.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-13T08:32:13.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
