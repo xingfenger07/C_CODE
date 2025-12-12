@@ -1,0 +1,3 @@
+﻿  shuzu.c
+E:\C\class\数组12-7\数组12-7\shuzu.c(52,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  数组12-7.vcxproj -> E:\C\class\数组12-7\Debug\数组12-7.exe

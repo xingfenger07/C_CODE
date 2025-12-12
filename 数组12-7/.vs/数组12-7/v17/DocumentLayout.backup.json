@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\class\\\u6570\u7EC412-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14464347-C7CE-4829-B778-0C26DB40C803}|\u6570\u7EC412-7\\\u6570\u7EC412-7.vcxproj|E:\\C\\class\\\u6570\u7EC412-7\\\u6570\u7EC412-7\\shuzu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14464347-C7CE-4829-B778-0C26DB40C803}|\u6570\u7EC412-7\\\u6570\u7EC412-7.vcxproj|solutionrelative:\u6570\u7EC412-7\\shuzu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shuzu.c",
+              "DocumentMoniker": "E:\\C\\class\\\u6570\u7EC412-7\\\u6570\u7EC412-7\\shuzu.c",
+              "RelativeDocumentMoniker": "\u6570\u7EC412-7\\shuzu.c",
+              "ToolTip": "E:\\C\\class\\\u6570\u7EC412-7\\\u6570\u7EC412-7\\shuzu.c",
+              "RelativeToolTip": "\u6570\u7EC412-7\\shuzu.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwC8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-07T13:16:07.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
