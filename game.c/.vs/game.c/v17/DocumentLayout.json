@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\new-test.-c\\game.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60D7DB62-6B29-491F-B4E2-8720713ABF00}|game.c\\game.c.vcxproj|E:\\C\\new-test.-c\\game.c\\game.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60D7DB62-6B29-491F-B4E2-8720713ABF00}|game.c\\game.c.vcxproj|solutionrelative:game.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\C\\new-test.-c\\game.c\\game.c\\test.c",
+              "RelativeDocumentMoniker": "game.c\\test.c",
+              "ToolTip": "E:\\C\\new-test.-c\\game.c\\game.c\\test.c",
+              "RelativeToolTip": "game.c\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-02T08:44:11.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

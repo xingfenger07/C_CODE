@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\class\\test.11.11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64A38DF-982B-48A2-BD10-F72326E0A690}|test.11.11\\test.11.11.vcxproj|E:\\C\\class\\test.11.11\\test.11.11\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64A38DF-982B-48A2-BD10-F72326E0A690}|test.11.11\\test.11.11.vcxproj|solutionrelative:test.11.11\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64A38DF-982B-48A2-BD10-F72326E0A690}|test.11.11\\test.11.11.vcxproj|E:\\C\\class\\test.11.11\\test.11.11\\Add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64A38DF-982B-48A2-BD10-F72326E0A690}|test.11.11\\test.11.11.vcxproj|solutionrelative:test.11.11\\Add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.h",
+              "DocumentMoniker": "E:\\C\\class\\test.11.11\\test.11.11\\Add.h",
+              "RelativeDocumentMoniker": "test.11.11\\Add.h",
+              "ToolTip": "E:\\C\\class\\test.11.11\\test.11.11\\Add.h",
+              "RelativeToolTip": "test.11.11\\Add.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-11T10:55:53.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\C\\class\\test.11.11\\test.11.11\\test.c",
+              "RelativeDocumentMoniker": "test.11.11\\test.c",
+              "ToolTip": "E:\\C\\class\\test.11.11\\test.11.11\\test.c",
+              "RelativeToolTip": "test.11.11\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-11T10:51:03.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
