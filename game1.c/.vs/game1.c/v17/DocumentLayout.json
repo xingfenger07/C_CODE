@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "game1.c\\game.h",
               "ToolTip": "E:\\C\\class\\game1.c\\game1.c\\game.h",
               "RelativeToolTip": "game1.c\\game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-13T10:43:03.454Z"
             },
@@ -48,9 +48,10 @@
               "RelativeDocumentMoniker": "game1.c\\game.c",
               "ToolTip": "E:\\C\\class\\game1.c\\game1.c\\game.c",
               "RelativeToolTip": "game1.c\\game.c",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-13T10:42:23.636Z"
+              "WhenOpened": "2025-12-13T10:42:23.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +61,7 @@
               "RelativeDocumentMoniker": "game1.c\\test.c",
               "ToolTip": "E:\\C\\class\\game1.c\\game1.c\\test.c",
               "RelativeToolTip": "game1.c\\test.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-13T10:41:37.591Z",
               "EditorCaption": ""

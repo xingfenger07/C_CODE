@@ -11,6 +11,7 @@ void menu()
 
 void game()
 {
+	char ret = 0;
 	char board[ROW][COL] = { 0 };
 	//≥ı ºªØ∆Â≈Ãµƒ∫Ø ˝
 	Initborad(board, ROW, COL);
@@ -19,10 +20,32 @@ void game()
 	while (1)
 	{
 		PlayerMove(board, ROW, COL);
+		//≈–∂œ ‰”Æ
+		ret = Iswin(board, ROW, COL);
+		if (ret != 'C')
+		{
+			break;
+		}
 		Displayboard(board, ROW, COL);
 		ComputerMove(board, ROW, COL);
+		//≈–∂œ ‰”Æ
+		ret = Iswin(board, ROW, COL);
+		if (ret != 'C')
+		{
+			break;
+		}
 		Displayboard(board, ROW, COL);
 	}
+	if (ret == '*')
+	{
+		printf("ÕÊº“”Æ\n");
+	}
+	else if (ret == '#')
+	{
+		printf("µÁƒ‘”Æ\n");
+	}
+	else
+		printf("∆Ωæ÷\n");
 }
 
 int main()

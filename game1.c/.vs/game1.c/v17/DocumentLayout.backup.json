@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\C\\class\\game1.c\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{989A53BC-C556-4CE3-A2A1-3230F131FEF7}|game1.c\\game1.c.vcxproj|E:\\C\\class\\game1.c\\game1.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{989A53BC-C556-4CE3-A2A1-3230F131FEF7}|game1.c\\game1.c.vcxproj|solutionrelative:game1.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{989A53BC-C556-4CE3-A2A1-3230F131FEF7}|game1.c\\game1.c.vcxproj|E:\\C\\class\\game1.c\\game1.c\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{989A53BC-C556-4CE3-A2A1-3230F131FEF7}|game1.c\\game1.c.vcxproj|solutionrelative:game1.c\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989A53BC-C556-4CE3-A2A1-3230F131FEF7}|game1.c\\game1.c.vcxproj|E:\\C\\class\\game1.c\\game1.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{989A53BC-C556-4CE3-A2A1-3230F131FEF7}|game1.c\\game1.c.vcxproj|solutionrelative:game1.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{989A53BC-C556-4CE3-A2A1-3230F131FEF7}|game1.c\\game1.c.vcxproj|E:\\C\\class\\game1.c\\game1.c\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,31 +36,33 @@
               "RelativeDocumentMoniker": "game1.c\\game.h",
               "ToolTip": "E:\\C\\class\\game1.c\\game1.c\\game.h",
               "RelativeToolTip": "game1.c\\game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-13T10:43:03.454Z"
+              "WhenOpened": "2025-12-13T10:43:03.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "game.c",
               "DocumentMoniker": "E:\\C\\class\\game1.c\\game1.c\\game.c",
               "RelativeDocumentMoniker": "game1.c\\game.c",
               "ToolTip": "E:\\C\\class\\game1.c\\game1.c\\game.c",
               "RelativeToolTip": "game1.c\\game.c",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-13T10:42:23.636Z"
+              "WhenOpened": "2025-12-13T10:42:23.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "test.c",
               "DocumentMoniker": "E:\\C\\class\\game1.c\\game1.c\\test.c",
               "RelativeDocumentMoniker": "game1.c\\test.c",
               "ToolTip": "E:\\C\\class\\game1.c\\game1.c\\test.c",
               "RelativeToolTip": "game1.c\\test.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-13T10:41:37.591Z",
               "EditorCaption": ""
